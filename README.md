@@ -3,7 +3,7 @@ Run docker containers in LXC on Centos 7
 
 LXC is a fast way to have a test server up and running. LXC has some security  in place that makes running docker in LXC on centos require a new config (docker-centos.conf). 
 
-#To Use:
+# To Use:
 Install and configure LXC on Centos 7. 
 yum install lxc lxc-extra lxc-templates-y
 
